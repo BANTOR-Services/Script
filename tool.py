@@ -1,4 +1,6 @@
 #100% Made By BANTOR-Services
+#pip install figlet
+#pip install subprocess
 import random ,base64,codecs,zlib,sys;py=""
 sys.setrecursionlimit(1000000000) 
 
